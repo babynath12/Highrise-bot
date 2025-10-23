@@ -1,2 +1,2 @@
-git+https://github.com/pocketzworld/highrise-bot-sdk.git
+websockets
 asyncio
