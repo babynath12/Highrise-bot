@@ -1,2 +1,2 @@
-highrise-bot-sdk==1.2.0
-pendulum==3.0.0
+git+https://github.com/pocketzworld/highrise-bot-sdk.git
+asyncio
